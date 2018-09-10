@@ -10,4 +10,4 @@ html {
 
 /* Write your solution here */
 
-@media (min-width:1170px) and (max-width:406px) {#monkey {top:-100px;}}
+@media (min-width:1170px) and (max-width:406px) {#monkey {top:-10px;}}
